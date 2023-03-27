@@ -1,7 +1,7 @@
-# I-Scholar:Quran-AI
 
 
-# I-Scholar: Quran AI
+
+# I-Scholar: Quran-AI
 Welcome to the I-Scholar Quran AI project! Our goal is to create an open-source platform for studying the Quran using artificial intelligence and machine learning. Our hope is that this project will help individuals around the world deepen their understanding and appreciation of this important religious text.
 
 ## Features
